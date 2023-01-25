@@ -1,0 +1,19 @@
+{
+  "name": "zubricks-logo-pkg",
+  "version": "1.0.0",
+  "description": "this is only a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubricks/zubricks.git"
+  },
+  "author": "zubricks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubricks/zubricks/issues"
+  },
+  "homepage": "https://github.com/zubricks/zubricks#readme"
+}
