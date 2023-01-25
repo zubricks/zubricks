@@ -20,6 +20,6 @@
 </p>
 
 <h1 align="center">
-  <img width="350" src="/src/admin/assets/images/payload-logo-dark.svg#gh-light-mode-only" alt="payload cms">
-  <img width="350" src="/src/admin/assets/images/payload-logo-light.svg#gh-dark-mode-only" alt="payload cms">
+  <img width="350" src="https://raw.githubusercontent.com/payloadcms/payload/master/src/admin/assets/images/payload-logo-dark.svg#gh-light-mode-only" alt="payload cms">
+  <img width="350" src="https://raw.githubusercontent.com/payloadcms/payload/master/src/admin/assets/images/payload-logo-light.svg#gh-dark-mode-only" alt="payload cms">
 </h1>
