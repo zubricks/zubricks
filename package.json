@@ -1,6 +1,6 @@
 {
   "name": "zubricks-logo-pkg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this is only a test",
   "main": "index.js",
   "scripts": {
