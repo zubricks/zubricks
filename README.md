@@ -31,7 +31,7 @@
 <br />
 
 <a href="https://payloadcms.com">
-  <img width="100%" src="src/admin/assets/images/github-banner-temp.jpg" alt="Payload headless CMS Admin panel built with React" />
+  <img width="100%" src="github-banner-temp.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
 
 <br />
@@ -68,7 +68,7 @@
 <br />
 <br />
 <a href="https://payloadcms.com/new">
-  <img width="100%" src="src/admin/assets/images/cloud-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
+  <img width="100%" src="cloud-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
 <br />
 <br />
@@ -77,13 +77,13 @@
  <tr>
     <td width="45%">
       <a href="https://payloadcms.com/new">
-        <img width="100%" src="src/admin/assets/images/ecommerce-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
+        <img width="100%" src="ecommerce-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
       </a>
     </td>
     <td width="10%">&nbsp;</td>
     <td width="45%">
     <a href="https://payloadcms.com/new">
-      <img width="100%" src="src/admin/assets/images/saas-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
+      <img width="100%" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
     </a>
     </td>
  </tr>
