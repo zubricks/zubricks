@@ -27,7 +27,7 @@
 
 <br />
 
-<h3 style="font-size:30px; width: 75%;" align="left">Define your schema in code and get a full TypeScript backend + CMS-grade admin UI instantly.</h3>
+<h3 style="width: 75%;" align="left">Define your schema in code and get a full TypeScript backend + CMS-grade admin UI instantly.</h3>
 <br />
 
 <a href="https://payloadcms.com">
@@ -37,7 +37,7 @@
 <br />
 
 <table border="0" width="100%">
- <tr>
+ <tr style="background-color: transparent !important;">
     <td border="0" width="50%"><b style="font-size:30px">Benefits over a regular CMS</b></td>
     <td width="10%">&nbsp;</td>
     <td width="40%"><b style="font-size:30px">Helpful Links</b></td>
