@@ -51,10 +51,34 @@
 <br />
 <br />
 <a href="https://payloadcms.com/new">
-  <img style="margin-right: 10px; max-width: 426px; width: calc((100% - 10px)/2);" class="responsive" src="ecommerce-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
+ <foreignObject>
+  <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        img {
+          margin-right: 10px;
+          max-width: 426px; 
+          width: calc((100% - 10px)/2);
+        }
+      </style>
+      <img class="responsive" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React">
+      </img>
+  </div>
+   </foreignObject>
 </a>
 <a href="https://payloadcms.com/new">
-  <img style="margin-right: 10px; max-width: 426px; width: calc((100% - 10px)/2);" class="responsive" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
+ <foreignObject>
+  <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        img {
+          margin-right: 10px;
+          max-width: 426px; 
+          width: calc((100% - 10px)/2);
+        }
+      </style>
+      <img class="responsive" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React">
+      </img>
+  </div>
+   </foreignObject>
 </a>
 
 ## 🚀 Get started by self-hosting
