@@ -19,52 +19,30 @@
   <a href="https://www.npmjs.com/package/payload">
     <img alt="npm" src="https://img.shields.io/npm/v/payload?style=flat-square" />
   </a>
+  <img alt="npm" src="https://img.shields.io/npm/dm/@payload/client?style=flat" />
   &nbsp;
   <a href="https://twitter.com/payloadcms">
     <img src="https://img.shields.io/badge/follow-payloadcms-1DA1F2?logo=twitter&style=flat-square" alt="Payload Twitter" />
   </a>
 </p>
-
-<br />
-
 <h3 style="width: 75%;" align="left">Define your schema in code and get a full TypeScript backend + CMS-grade admin UI instantly.</h3>
 <br />
 
 <a href="https://payloadcms.com">
-  <img width="100%" src="github-banner-temp.jpg" alt="Payload headless CMS Admin panel built with React" />
+  <img width="100%" src="github-banner.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
 
 <br />
-
-<table border="0" width="100%">
- <tr style="background-color: transparent !important;">
-    <td border="0" width="50%"><b style="font-size:30px">Benefits over a regular CMS</b></td>
-    <td width="10%">&nbsp;</td>
-    <td width="40%"><b style="font-size:30px">Helpful Links</b></td>
- </tr>
- <tr>
-    <td width="50%">
-      <ul>
-        <li>Don’t hit their API, hit yours</li>
-        <li>Use your own database and own your data</li>
-        <li>Avoid vendor lock-in</li>
-        <li>Never touch ancient WP code again</li>
-        <li>Build faster, never hit a roadblock</li>
-        <li>Both admin and backend are 100% extensible</li>
-      </ul>
-    </td>
-    <td width="10%"></td>
-    <td width="40%">
-      <ul>
-        <li><a target="_blank" href="https://payloadcms.com/docs/getting-started/what-is-payload" rel="dofollow"><strong>Explore the docs</strong></a></li>
-        <li><a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a></li>
-        <li><a target="_blank" href="https://github.com/payloadcms/payload/discussions/1539" rel="dofollow"><strong>Roadmap</strong></a></li>
-        <li><a target="_blank" href="https://www.g2.com/products/payload-cms/reviews#reviews" rel="dofollow"><strong>View G2 Reviews</strong></a></li>
-        <li><a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a></li>
-      </ul>
-    </td>
- </tr>
-</table>
+<b style="font-size:30px">Benefits over a regular CMS</b>
+<ul>
+  <li>Don’t hit their API, hit yours</li>
+  <li>Use your own database and own your data</li>
+  <li>Avoid vendor lock-in</li>
+  <li>Never touch ancient WP code again</li>
+  <li>Build faster, never hit a roadblock</li>
+  <li>Both admin and backend are 100% extensible</li>
+</ul>
+<a target="_blank" href="https://payloadcms.com/docs/getting-started/what-is-payload" rel="dofollow"><strong>Explore the docs</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://github.com/payloadcms/payload/discussions/1539" rel="dofollow"><strong>Roadmap</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://www.g2.com/products/payload-cms/reviews#reviews" rel="dofollow"><strong>View G2 Reviews</strong></a>
 <br />
 <br />
 <a href="https://payloadcms.com/new">
@@ -72,41 +50,23 @@
 </a>
 <br />
 <br />
-
-<table border="0" width="100%">
- <tr>
-    <td width="45%">
-      <a href="https://payloadcms.com/new">
-        <img width="100%" src="ecommerce-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
-      </a>
-    </td>
-    <td width="10%">&nbsp;</td>
-    <td width="45%">
-    <a href="https://payloadcms.com/new">
-      <img width="100%" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
-    </a>
-    </td>
- </tr>
- <tr>
-    <td width="45%">
-      <ul>
+<a href="https://payloadcms.com/new">
+  <img style="margin-right: 10px;max-width: 426px; width: calc((100% - 10px)/2);" width="100%" src="ecommerce-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
+</a>
+<a href="https://payloadcms.com/new">
+  <img style="margin-right: 0px;max-width: 426px; width: calc((100% - 10px)/2);" width="100%" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
+</a>
+<ul>
         <li>Don’t ever combine Shopify + CMS again</li>
         <li>Do it all with Payload + Stripe</li>
         <li>Extend it as much as you need</li>
-      </ul>
-    </td>
-    <td width="10%">&nbsp;</td>
-    <td width="45%">
-      <ul>
+      </ul> <ul>
         <li><a target="_blank" href="https://payloadcms.com/docs/getting-started/what-is-payload" rel="dofollow"><strong>Explore the docs</strong></a></li>
         <li><a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a></li>
         <li><a target="_blank" href="https://github.com/payloadcms/payload/discussions/1539" rel="dofollow"><strong>Roadmap</strong></a></li>
         <li><a target="_blank" href="https://www.g2.com/products/payload-cms/reviews#reviews" rel="dofollow"><strong>View G2 Reviews</strong></a></li>
         <li><a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a></li>
       </ul>
-    </td>
- </tr>
-</table>
 
 ## 🚀 Get started by self-hosting
 
@@ -115,6 +75,7 @@ Before beginning to work with Payload, make sure you have all of the [required s
 ```text
 npx create-payload-app
 ```
+
 ## ⭐ Why Payload?
 
 Payload is a CMS that has been designed for developers from the ground up to deliver them what they need to build great digital products. If you know JavaScript, you know Payload. It's a _code-first_ CMS, which allows us to do a lot of things right:
