@@ -51,22 +51,11 @@
 <br />
 <br />
 <a href="https://payloadcms.com/new">
-  <img style="margin-right: 10px;max-width: 426px; width: calc((100% - 10px)/2);" width="100%" src="ecommerce-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
+  <img style="margin-right: 10px; max-width: 426px; width: calc((100% - 10px)/2);" class="responsive" src="ecommerce-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
 <a href="https://payloadcms.com/new">
-  <img style="margin-right: 0px;max-width: 426px; width: calc((100% - 10px)/2);" width="100%" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
+  <img style="margin-right: 10px; max-width: 426px; width: calc((100% - 10px)/2);" class="responsive" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
-<ul>
-        <li>Don’t ever combine Shopify + CMS again</li>
-        <li>Do it all with Payload + Stripe</li>
-        <li>Extend it as much as you need</li>
-      </ul> <ul>
-        <li><a target="_blank" href="https://payloadcms.com/docs/getting-started/what-is-payload" rel="dofollow"><strong>Explore the docs</strong></a></li>
-        <li><a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a></li>
-        <li><a target="_blank" href="https://github.com/payloadcms/payload/discussions/1539" rel="dofollow"><strong>Roadmap</strong></a></li>
-        <li><a target="_blank" href="https://www.g2.com/products/payload-cms/reviews#reviews" rel="dofollow"><strong>View G2 Reviews</strong></a></li>
-        <li><a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a></li>
-      </ul>
 
 ## 🚀 Get started by self-hosting
 
