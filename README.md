@@ -33,7 +33,7 @@
 </a>
 
 <br />
-<b style="font-size:30px">Benefits over a regular CMS</b>
+<h2>Benefits over a regular CMS</h2>
 <ul>
   <li>Don’t hit their API, hit yours</li>
   <li>Use your own database and own your data</li>
@@ -51,34 +51,10 @@
 <br />
 <br />
 <a href="https://payloadcms.com/new">
- <foreignObject>
-  <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        img {
-          margin-right: 10px;
-          max-width: 426px; 
-          width: calc((100% - 10px)/2);
-        }
-      </style>
-      <img class="responsive" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React">
-      </img>
-  </div>
-   </foreignObject>
+  <img width="50%" class="responsive" src="ecommerce-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
 <a href="https://payloadcms.com/new">
- <foreignObject>
-  <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        img {
-          margin-right: 10px;
-          max-width: 426px; 
-          width: calc((100% - 10px)/2);
-        }
-      </style>
-      <img class="responsive" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React">
-      </img>
-  </div>
-   </foreignObject>
+  <img width="50%" class="responsive" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
 
 ## 🚀 Get started by self-hosting
