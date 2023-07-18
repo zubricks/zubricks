@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/follow-payloadcms-1DA1F2?logo=twitter&style=flat-square" alt="Payload Twitter" />
   </a>
 </p>
-<h3 style="width: 75%;" align="left">Define your schema in code and get a full TypeScript backend + CMS-grade admin UI instantly.</h3>
+<h3 align="left">Define your schema in code and get a full TypeScript backend + CMS-grade admin UI instantly.</h3>
 <br />
 
 <a href="https://payloadcms.com">
