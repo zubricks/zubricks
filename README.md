@@ -31,7 +31,13 @@
 <a href="https://payloadcms.com">
   <img width="100%" src="github-banner.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
-
+<div style="background-color: #141414; width: 100%; display: flex; align-items: center; justify-content: space-between; padding: 30px;">
+  <a style="color: white !important;" target="_blank" href="https://payloadcms.com/docs/getting-started/what-is-payload" rel="dofollow"><strong>Explore the docs</strong></a>
+  <a style="color: white !important;" target="_blank" href="https://payloadcms.com/community-help" rel="dofollow"><strong>Community Help</strong></a>
+  <a style="color: white !important;" target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a>
+  <a style="color: white !important;" target="_blank" href="https://github.com/payloadcms/payload/discussions/1539" rel="dofollow"><strong>Roadmap</strong></a>
+  <a style="color: white !important;" target="_blank" href="https://www.g2.com/products/payload-cms/reviews#reviews" rel="dofollow"><strong>View G2 Reviews</strong></a>
+</div>
 <br />
 <h2>Benefits over a regular CMS</h2>
 <ul>
@@ -42,20 +48,11 @@
   <li>Build faster, never hit a roadblock</li>
   <li>Both admin and backend are 100% extensible</li>
 </ul>
-<a target="_blank" href="https://payloadcms.com/docs/getting-started/what-is-payload" rel="dofollow"><strong>Explore the docs</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://github.com/payloadcms/payload/discussions/1539" rel="dofollow"><strong>Roadmap</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://www.g2.com/products/payload-cms/reviews#reviews" rel="dofollow"><strong>View G2 Reviews</strong></a>
-<br />
 <br />
 <a href="https://payloadcms.com/new">
   <img width="100%" src="cloud-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
 <br />
-<br />
-<a href="https://payloadcms.com/new">
-  <img width="50%" class="responsive" src="ecommerce-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
-</a>
-<a href="https://payloadcms.com/new">
-  <img width="50%" class="responsive" src="saas-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
-</a>
 
 ## 🚀 Get started by self-hosting
 
