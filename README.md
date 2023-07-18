@@ -27,7 +27,7 @@
 <br />
 
 <a href="https://payloadcms.com">
-  <img width="100%" src="isometric-banner.jpg" alt="Payload headless CMS Admin panel built with React" />
+  <img width="100%" src="github-banner.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
 <br />
 <h3>
