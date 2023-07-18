@@ -6,7 +6,6 @@
     </picture>
   </a>
 </p>
-<br />
 <p align="left">
   <a href="https://github.com/payloadcms/payload/actions">
     <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/payloadcms/payload/tests.yml?style=flat-square">
@@ -24,11 +23,11 @@
     <img src="https://img.shields.io/badge/follow-payloadcms-1DA1F2?logo=twitter&style=flat-square" alt="Payload Twitter" />
   </a>
 </p>
-<h3 align="left">Define your schema in code and get a full TypeScript backend + CMS-grade admin UI instantly.</h3>
+<h1>Define your schema in code and get a full TypeScript backend + CMS-grade admin UI instantly.</h1>
 <br />
 
 <a href="https://payloadcms.com">
-  <img width="100%" src="github-banner.jpg" alt="Payload headless CMS Admin panel built with React" />
+  <img width="100%" src="isometric-banner.jpg" alt="Payload headless CMS Admin panel built with React" />
 </a>
 <br />
 <h3>
