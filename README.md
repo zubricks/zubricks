@@ -1,1 +1,2 @@
 # zubricks
+I'm a Full Stack Developer + UX/UI Designer. I've worked in an agency setting designing and building apps + websites for over a decade. Currently, I'm the Ops Manager at Payload. This readme is very much a WIP but I'll add more soon.
