@@ -1,14 +1,11 @@
-<p style="border: none; margin-bottom:0; padding-bottom: 0;" align="left">
-  <a href="https://payloadcms.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/payloadcms/payload/master/src/admin/assets/images/payload-logo-light.svg">
-      <img width="250" alt="Payload Logo" src="https://raw.githubusercontent.com/payloadcms/payload/master/src/admin/assets/images/payload-logo-dark.svg">
-    </picture>
-  </a>
-</p>
+<a href="https://payloadcms.com">
+  <img width="100%" src="https://github.com/payloadcms/payload/blob/main/packages/payload/src/admin/assets/images/github-banner-alt.jpg?raw=true" alt="Payload headless CMS Admin panel built with React" />
+</a>
+<br />
+<br />
 <p align="left">
   <a href="https://github.com/payloadcms/payload/actions">
-    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/payloadcms/payload/tests.yml?style=flat-square">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/payloadcms/payload/main.yml?style=flat-square">
   </a>
   &nbsp;
   <a href="https://discord.gg/payload">
@@ -23,32 +20,34 @@
     <img src="https://img.shields.io/badge/follow-payloadcms-1DA1F2?logo=twitter&style=flat-square" alt="Payload Twitter" />
   </a>
 </p>
-<h1>Define your schema in code and get a full TypeScript backend + CMS-grade admin UI instantly.</h1>
-<br />
-
-<a href="https://payloadcms.com">
-  <img width="100%" src="github-banner.jpg" alt="Payload headless CMS Admin panel built with React" />
-</a>
-<br />
-<h3>
+<hr/>
+<h4>
 <a target="_blank" href="https://payloadcms.com/docs/getting-started/what-is-payload" rel="dofollow"><strong>Explore the Docs</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://payloadcms.com/community-help" rel="dofollow"><strong>Community Help</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://github.com/payloadcms/payload/discussions/1539" rel="dofollow"><strong>Roadmap</strong></a>&nbsp;·&nbsp;<a target="_blank" href="https://www.g2.com/products/payload-cms/reviews#reviews" rel="dofollow"><strong>View G2 Reviews</strong></a>
+</h4>
+<hr/>
+
+<h3>
+  🎉 Payload 2.0 is now available! Read more in the <a target="_blank" href="https://payloadcms.com/blog/payload-2-0" rel="dofollow"><strong>announcement post</strong></a>
 </h3>
-<h2>Benefits over a regular CMS</h2>
+
+<h3>Benefits over a regular CMS</h3>
 <ul>
-  <li>Don’t hit their API, hit yours</li>
+  <li>Don’t hit some third-party SaaS API, hit your own API</li>
   <li>Use your own database and own your data</li>
-  <li>Avoid vendor lock-in</li>
+  <li>It's just Express - do what you want outside of Payload</li>
+  <li>No need to learn how Payload works - if you know JS, you know Payload</li>
+  <li>No vendor lock-in</li>
+  <li>Avoid microservices hell - get everything (even auth) in one place</li>
   <li>Never touch ancient WP code again</li>
   <li>Build faster, never hit a roadblock</li>
   <li>Both admin and backend are 100% extensible</li>
 </ul>
-<br />
-<a href="https://payloadcms.com/new">
-  <img width="100%" src="cloud-cta.jpg" alt="Payload headless CMS Admin panel built with React" />
-</a>
-<br />
 
-## 🚀 Get started by self-hosting
+## ☁️ Deploy instantly with Payload Cloud.
+
+Create a cloud account, connect your GitHub, and [deploy in minutes](https://payloadcms.com/new).
+
+## 🚀 Get started by self-hosting completely free, forever.
 
 Before beginning to work with Payload, make sure you have all of the [required software](https://payloadcms.com/docs/getting-started/installation).
 
@@ -56,16 +55,24 @@ Before beginning to work with Payload, make sure you have all of the [required s
 npx create-payload-app
 ```
 
-## ⭐ Why Payload?
+Alternatively, it only takes about five minutes to [create an app from scratch](https://payloadcms.com/docs/getting-started/installation#from-scratch).
 
-Payload is a CMS that has been designed for developers from the ground up to deliver them what they need to build great digital products. If you know JavaScript, you know Payload. It's a _code-first_ CMS, which allows us to do a lot of things right:
+## 🖱️ One-click templates
 
-- Payload gives you everything you need, but then steps back and lets you build what you want in JavaScript or TypeScript - with no unnecessary complexity brought by GUIs. You'll understand how your CMS works because you will have written it exactly how you want it.
-- Bring your own Express server and do whatever you need on top of Payload. Payload doesn't impose anything on you or your app.
-- Completely control the Admin panel by using your own React components. Swap out fields or even entire views with ease.
-- Use your data however and wherever you need thanks to auto-generated, yet fully extensible REST, GraphQL, and Local Node APIs.
+Jumpstart your next project by starting with a pre-made template. These are production-ready, end-to-end solutions designed to get you to market as fast as possible.
 
-<a target="_blank" href="https://payloadcms.com/" rel="dofollow"><strong>Read more on our website</strong></a>
+### [🛒 E-Commerce](https://github.com/payloadcms/payload/tree/main/templates/ecommerce)
+
+Eliminate the need to combine Shopify and a CMS, and instead do it all with Payload + Stripe. Comes with a beautiful, fully functional front-end complete with shopping cart, checkout, orders, and much more.
+
+### [🌐 Website](https://github.com/payloadcms/payload/tree/main/templates/website)
+
+Build any kind of website, blog, or portfolio from small to enterprise. Comes with a beautiful, fully functional front-end complete with posts, projects, comments, and much more.
+
+We're constantly adding more templates to our [Templates Directory](https://github.com/payloadcms/payload/tree/main/templates). If you maintain your own template, consider adding the `payload-template` topic to your GitHub repository for others to find.
+
+- [Official Templates](https://github.com/payloadcms/payload/tree/main/templates)
+- [Community Templates](https://github.com/topics/payload-template)
 
 ## ✨ Features
 
@@ -89,23 +96,23 @@ Payload is a CMS that has been designed for developers from the ground up to del
 
 <a target="_blank" href="https://github.com/payloadcms/payload/discussions"><strong>Request Feature</strong></a>
 
-Alternatively, it only takes about five minutes to [create an app from scratch](https://payloadcms.com/docs/getting-started/installation#from-scratch).
-
 ## 🗒️ Documentation
 
 Check out the [Payload website](https://payloadcms.com/docs/getting-started/what-is-payload) to find in-depth documentation for everything that Payload offers.
 
+Migrating from v1 to v2? Check out the [2.0 Release Notes](https://github.com/payloadcms/payload/releases/tag/v2.0.0) on how to do it.
+
 ## 🙋 Contributing
 
-If you want to add contributions to this repository, please follow the instructions in [contributing.md](./contributing.md).
+If you want to add contributions to this repository, please follow the instructions in [contributing.md](./CONTRIBUTING.md).
 
-## 📚 Examples and Templates
+## 📚 Examples
 
-The examples directory is a great resource for learning how to setup Payload in a variety of different ways. There are also a number of templates to help get you going very quickly. If you maintain your own template, consider adding the `payload-template` topic to your GitHub repository for others to find.
+The [Examples Directory](./examples) is a great resource for learning how to setup Payload in a variety of different ways, but you can also find great examples in our blog and throughout our social media.
 
 - [Examples Directory](./examples)
-- [Official Templates](https://github.com/orgs/payloadcms/repositories?q=topic%3Apayload-template)
-- [Community Templates](https://github.com/topics/payload-template)
+- [Payload Blog](https://payloadcms.com/blog)
+- [Payload YouTube](https://www.youtube.com/@payloadcms)
 
 ## 🔌 Plugins
 
